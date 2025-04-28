@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jayasurya!
+# 👋 Hi, I'm Jaya Surya!
 
 Welcome to my GitHub profile! I'm a **student** exploring the exciting world of web development. I enjoy creating fun and interactive projects that help me learn new skills and showcase my creativity.
 
